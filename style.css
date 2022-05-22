@@ -1,0 +1,164 @@
+body{
+    margin: 0px;
+
+   
+}
+
+.header{
+    background-color: #1f2937;
+    color: #fff;
+    margin: 0px;
+    display:flex;
+    justify-content: space-around;
+  
+
+   
+}
+ul{
+   display: flex;
+   list-style: none;
+   margin-left: 50px;
+   margin-right: 80px;
+   gap:30px;
+  
+  
+    
+}
+.r{
+display: flex;
+gap: 20px;
+}
+.l{
+    font-weight: 900;
+}
+.write ol{
+    background-color:#1f2937;
+  
+    margin: 0px;
+    list-style: none;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    
+    
+
+    
+   
+}
+.write li{
+    margin-left: 80px;
+    margin-top: 50px;
+    padding: 10px;
+   
+   
+   
+}
+button{
+    margin-left: 130px;
+    padding: 10px;
+    margin-right: 0px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: cornflowerblue;
+   
+}
+.write{
+    background-color:#1f2937;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    color: #fff;
+    margin-left: 130px;
+}
+.top{
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-around;
+}
+.pic{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding: 20px;
+    
+    
+}
+.pic img{
+height: 200px;
+width: 300px;
+margin-left: 10px;
+
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-right: 100px;
+}
+.pic p{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+}
+.one{
+    border: 5px solid;
+    border: 5px solid gray;
+    background-color: bisque;
+    
+}
+.two{
+    border: 5px solid gray;
+    padding: 20px;
+    background-color: coral;
+}
+.three{
+    border: 5px solid ;
+
+    padding: 20px;
+    border: 5px solid gray;
+    background-color: darkslategray;
+}
+.info p{
+    color: #1f2937;
+    font-size:50px ;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+.quote p{
+    color: black;
+}
+.quote{
+    background-color: rgb(214, 209, 209);
+    padding: 100px;
+    font-size: 25px;
+    margin: 50px;
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.blue p{
+    color: black;
+    
+}
+
+
+.blue{
+    background-color:rgb(18, 117, 199);
+    margin: 30px;
+    padding: 30px;
+   margin-right: 500px;
+   margin-left: 400px;
+    display: flex;
+    
+}
+.footer{
+    background-color: #1f2937;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
